@@ -16,7 +16,8 @@
 
 5)продолжаем работу с vagrant файлом
 
-![image](https://user-images.githubusercontent.com/90716549/169368063-13a66600-9a43-4892-8224-b6aed2376d36.png)
+![image](https://user-images.githubusercontent.com/90716549/169372488-5d93597b-372c-4201-8a25-f4492dd56940.png)
+
 
 6)создаем файл provision.sh для удобства настроки системы куда пишем настроку и запуск nginei X
 
